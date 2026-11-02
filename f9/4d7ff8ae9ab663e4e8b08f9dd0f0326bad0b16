@@ -1,0 +1,21 @@
+vllm/v1/worker/gpu/spec_decode/dspark/speculator.py
+  s_1fc331502db7c7::t_5fef95761b9548 138
+requirements/test/rocm.txt
+  s_1fc331502db7c7::t_343e928914747f 657-658
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f94d7ff8ae9ab663e4e8b08f9dd0f0326bad0b16",
+  "prompts": {},
+  "sessions": {
+    "s_1fc331502db7c7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19bcb-e427-7450-8d2f-719d8cd6ea5f",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "逸磊 <yilei.wm@antgroup.com>"
+    }
+  }
+}
