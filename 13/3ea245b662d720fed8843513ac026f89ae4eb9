@@ -1,0 +1,23 @@
+vllm/config/speculative.py
+  s_f9d3778d39c507::t_5ec5d85e135ce8 645-646
+vllm/v1/worker/gpu/spec_decode/dspark/speculator.py
+  s_f9d3778d39c507::t_5ec5d85e135ce8 82,124,136-143,264,290-292
+docs/features/speculative_decoding/README.md
+  s_f9d3778d39c507::t_5ec5d85e135ce8 112-126
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "133ea245b662d720fed8843513ac026f89ae4eb9",
+  "prompts": {},
+  "sessions": {
+    "s_f9d3778d39c507": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a1d5-b1a0-7462-b30e-a1823c69d6b3",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "逸磊 <yilei.wm@antgroup.com>"
+    }
+  }
+}
