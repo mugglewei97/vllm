@@ -1,0 +1,23 @@
+docs/features/speculative_decoding/README.md
+  s_f9d3778d39c507::t_613a8ecf9feced 119-123
+tests/v1/spec_decode/test_dspark_topk.py
+  s_f9d3778d39c507::t_613a8ecf9feced 21-46,365
+vllm/v1/worker/gpu/spec_decode/dspark/speculator.py
+  s_f9d3778d39c507::t_613a8ecf9feced 40-51,270-272,287-289,298-299,310-317
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fa03d75bcff854e38c8c37ebf6a851a764bfe3e8",
+  "prompts": {},
+  "sessions": {
+    "s_f9d3778d39c507": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a1d5-b1a0-7462-b30e-a1823c69d6b3",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "逸磊 <yilei.wm@antgroup.com>"
+    }
+  }
+}
