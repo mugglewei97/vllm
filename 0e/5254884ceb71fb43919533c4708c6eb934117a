@@ -1,0 +1,28 @@
+tests/v1/e2e/spec_decode/acceptance_rates/dspark/test_dspark.py
+  s_132d192653c5d2::t_0c1f00e2757872 4-5,8,38-39,91-102,115-135,137-160,165,167-168,191-192,205-208,216-217
+docs/features/speculative_decoding/README.md
+  s_132d192653c5d2::t_058b934524b932 123-126
+vllm/v1/worker/gpu/spec_decode/dspark/speculator.py
+  s_132d192653c5d2::t_19fcdffcc3a8ac 35-38,220-223,236-246,248-249,253-255,263-264,275,281-297
+vllm/v1/worker/gpu/spec_decode/dspark/topk_markov.py
+  s_132d192653c5d2::t_f1d716f219d9d6 23
+  s_132d192653c5d2::t_19fcdffcc3a8ac 9-13,18-20,22,24-43
+  s_132d192653c5d2::t_b9fe979de4a715 5-6,16-17,21
+  s_132d192653c5d2::t_65095405d04098 44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0e5254884ceb71fb43919533c4708c6eb934117a",
+  "prompts": {},
+  "sessions": {
+    "s_132d192653c5d2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1aa5d-dd54-7ca3-b062-e1764633617e",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "逸磊 <yilei.wm@antgroup.com>"
+    }
+  }
+}
